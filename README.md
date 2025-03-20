@@ -38,7 +38,7 @@ If you have already completed the task, you can drag and drop your files into th
 Add your files and commit your changes:
 ```bash
 git add .
-git commit -m "Add solution for technical assessment"
+git commit -m "Add a commit message"
 ```
 
 ### 5. Push Your Changes to GitHub
